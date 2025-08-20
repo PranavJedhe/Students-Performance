@@ -1,4 +1,4 @@
-# College Rank Management and Analytics System
+# Student's Performance
 
 This repository contains a minimal skeleton for a college rank management and analytics system. The frontend is built with Next.js and the backend uses Flask. The project uses **pnpm** as the Node.js package manager.
 
